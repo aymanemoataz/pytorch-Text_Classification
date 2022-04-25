@@ -14,8 +14,10 @@ The dataset now contains over 80,000 healthy and unhealthy comments. In addition
 ## Model training :
 The original paper aimed to present the dataset and they trained a BERT model on the text classification task. I used the BERT-base, T5 and roBERTa models. The latter had better scores in the classification of unhealthy labels.
 
+<p align="center">
 <img src="https://github.com/aymanemoataz/pytorch-Text_Classification/blob/main/images/train.png" width="270px" height="210px">
 <img src="https://github.com/aymanemoataz/pytorch-Text_Classification/blob/main/images/validation.png" width="270px" height="210px">
+</p>
 
 
 
