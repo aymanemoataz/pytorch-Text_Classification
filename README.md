@@ -16,7 +16,7 @@ The original paper aimed to present the dataset and they trained a BERT model on
 
 
 ## Results :
-Given that the original paper was published in 2020 and focused on the dataset (that had only 44k comments), I was able to replicate the same performance measure the authors used and achieve better scores for all labels before any hyperparameter optimization steps.
+Given that the original paper was published in 2020 and focused on the dataset, I was able to replicate the same performance measure the authors used and achieve better scores for all labels before any hyperparameter optimization steps.
 
 <p align="center">
 <img src="https://github.com/aymanemoataz/pytorch-Text_Classification/blob/main/images/scores.png" width="500px" height="400px">
