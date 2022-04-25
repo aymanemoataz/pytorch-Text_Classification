@@ -22,5 +22,5 @@ Given that the original paper was published in 2020 and focused on the dataset (
 <img src="https://github.com/aymanemoataz/pytorch-Text_Classification/blob/main/images/scores.png" width="500px" height="400px">
 </p>
 
-The authors scored 50% for the classification of the label sarcasm and talked about the difficulty of detecting sarcasm. With the finely tuned roBERTa model, I was able to achieve 75% without hyper parameter optimization.
+The authors scored 50% for the classification of the label sarcasm and talked about the difficulty of detecting sarcasm. With the fine-tuned roBERTa model, I was able to achieve a score of 75% without hyper parameter optimization.
 
