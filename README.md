@@ -22,6 +22,8 @@ The original paper aimed to present the dataset and they trained a BERT model on
 
 
 ## Results :
-
+<p align="center">
+<img src="https://github.com/aymanemoataz/pytorch-Text_Classification/blob/main/images/scores.png" width="500px" height="400px">
+</p>
 
 
